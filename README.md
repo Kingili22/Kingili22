@@ -1,5 +1,5 @@
 # Hello There! 👋
-# I am a Coder who works with multiple languages!
+I am a Coder who works with multiple languages!
 ----
 # Including...
 - Javascript
