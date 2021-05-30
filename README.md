@@ -14,6 +14,6 @@ I am a Coder who works with multiple languages!
 - Improve at Python and Javascript!
 ----
 ![Kingili22's GitHub stats](https://github-readme-stats.vercel.app/api?username=kingili22&show_icons=true&theme=onedark)
-https://github-readme-stats.vercel.app/api/top-langs/?username=kingili22&layout=compact&theme=dark
+![Kingili22's GitHub stats](https://github-readme-stats.vercel.app/api/top-langs/?username=kingili22&layout=compact&theme=dark)
 ----
 
