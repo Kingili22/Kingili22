@@ -13,6 +13,6 @@ I am a Coder who works with multiple languages!
 - Learn Java
 - Improve at Python and Javascript!
 ----
-![Kingili22's GitHub stats](https://github-readme-stats.vercel.app/api?username=kingili22&show_icons=true&theme=onedarkl)
+![Kingili22's GitHub stats](https://github-readme-stats.vercel.app/api?username=kingili22&show_icons=true&theme=onedark)
 ----
 
