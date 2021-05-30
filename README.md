@@ -9,9 +9,10 @@ I am a Coder who works with multiple languages!
 - Java
 ----
 # 🎉 My Goals for 2021 are: 
-- Make My [Website](https://kingili22.github.io/Crisis-Hotlines/) Better
+- Make My [Website](https://kingili.me) Better
 - Learn Java
 - Improve at Python and Javascript!
 ----
-
+![Kingili22's GitHub stats](https://github-readme-stats.vercel.app/api?username=kingili22&show_icons=true&theme=onedarkl)
+----
 
