@@ -10,7 +10,7 @@ I am a Coder who works with multiple languages!
 ----
 # 🎉 My Goals for 2021 are: 
 - Make My [Website](https://kingili.me) Better
-- Learn Java
+- Learn Java and Kotlin
 - Improve at Python and Javascript!
 ----
 ![Kingili22's GitHub stats](https://github-readme-stats.vercel.app/api?username=kingili22&show_icons=true&theme=onedark)
